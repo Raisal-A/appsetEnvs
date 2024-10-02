@@ -1,0 +1,7 @@
+env:
+  - name: ENVIRONMENT
+    value: "production"
+  - name: DB_URL
+    value: "mysql://prod-db"
+  - name: FEATURE_FLAG
+    value: "true"
