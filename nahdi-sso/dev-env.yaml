@@ -1,0 +1,7 @@
+env:
+  - name: ENVIRONMENT
+    value: "dev"
+  - name: DB_URL
+    value: "mysql://dev-db"
+  - name: FEATURE_FLAG
+    value: "true"
